@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+#Pod Cast: Os Desafios da Mulher 50+
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Pod Cast sobre os desafios da Mulher, Mãe e Profissional com mais de 50 anos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT para texto e ElevenLabs (text to speach).
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT para criar o texto usando act commands – “como se fosse um comediante de stand up commedy”, fiz a revisão usando minha experiência pessoal e coloquei o texto no Eleven Labs, buscando uma voz feminina que pudesse reproduzir o texto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Segue o arquivo mp3 ElevenLabs_2025-01-05T21_13_46_LiveChi _pvc_s50_sb63_se40_b_m2.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O uso do ChatGPT com act commands foi incrível.  No ElevenLabs infelizmente, não há tantas opções de voz compatíveis com comediantes femininas na versão free, o que daria um tom mais de comédia ao texto, mas valeu pelo uso da ferramenta, aprendi como fazer.
 ```
 
 ### Exemplos e Insigths
